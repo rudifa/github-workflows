@@ -1,0 +1,12 @@
+{
+  "name": "try-gh-package",
+  "version": "1.0.0",
+  "description": "Learn github package workflow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Rudolf Farkas @rudifa",
+  "license": "ISC"
+}
