@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "description": "Learn github package workflow",
   "main": "index.js",
+  "repository": "https://github.com/rudifa/try-gh-package.git",
   "publishConfig": {
-    "@rudifa:registry": "https://npm.pkg.github.com"
+    "registry": "https://npm.pkg.github.com"
   },
   "scripts": {
     "test": "exit 0"
