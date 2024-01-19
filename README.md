@@ -1,1 +1,1 @@
-# try-gh-package
+# try-github-workflows
